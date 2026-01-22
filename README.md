@@ -7,20 +7,20 @@
 
 ## 🖼️ لقطات من التطبيق الأول
 
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_1_2025-12-27_16-10-31.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_10_2025-12-27_16-10-31.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_11_2025-12-27_16-10-31.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_12_2025-12-27_16-10-31.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_13_2025-12-27_16-10-31.jpg?raw=1)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_1_2025-12-27_16-10-31.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_10_2025-12-27_16-10-31.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_11_2025-12-27_16-10-31.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_12_2025-12-27_16-10-31.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_13_2025-12-27_16-10-31.jpg)
 
 ---
 
 ## 🖼️ لقطات من التطبيق الثاني
 
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_2026-01-08_18-41-17.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_2026-01-08_18-41-25.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_2026-01-08_18-41-30.jpg?raw=1)
-![Screenshot](https://github.com/Mooazsobh2/Portfolio/blob/main/photo_2026-01-08_18-41-33.jpg?raw=1)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_2026-01-08_18-41-17.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_2026-01-08_18-41-25.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_2026-01-08_18-41-30.jpg)
+![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_2026-01-08_18-41-33.jpg)
 
 ---
 
