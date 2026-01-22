@@ -7,48 +7,20 @@
 
 ## 🖼️ لقطات من التطبيق الأول
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_1_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_3_2025-12-27_16-10-31.jpg" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_4_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_5_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_6_2025-12-27_16-10-31.jpg" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_7_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_8_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_9_2025-12-27_16-10-31.jpg" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_10_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_11_2025-12-27_16-10-31.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_12_2025-12-27_16-10-31.jpg" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_13_2025-12-27_16-10-31.jpg" width="250"/>
-</p>
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_1_2025-12-27_16-10-31.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_10_2025-12-27_16-10-31.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_11_2025-12-27_16-10-31.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_12_2025-12-27_16-10-31.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_13_2025-12-27_16-10-31.jpg)
 
 ---
 
 ## 🖼️ لقطات من التطبيق الثاني
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-17.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-25.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-30.jpg" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-33.jpg" width="250"/>
-  <img src="https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-42.jpg" width="250"/>
-</p>
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-17.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-25.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-30.jpg)
+![Screenshot](https://raw.githubusercontent.com/Mooazsobh2/Portfolio/main/photo_2026-01-08_18-41-33.jpg)
 
 ---
 
@@ -56,5 +28,4 @@
 
 - هناك المزيد من الأعمال السابقة في الحساب الشخصي.
 
-لمشاهدة جميع أعمالي السابقة، يمكنك زيارة البروفايل الشخصي:  
 🔗 https://profile-cv-ten.vercel.app/#home
