@@ -7,7 +7,7 @@
 
 ## 🖼️ لقطات من التطبيق الأول
 
-![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_1_2025-12-27_16-10-31.jpg)
+![Screenshot](photo_1_2025-12-27_16-10-31.jpg)
 ![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_10_2025-12-27_16-10-31.jpg)
 ![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_11_2025-12-27_16-10-31.jpg)
 ![Screenshot](https://mooazsobh2.github.io/Portfolio/photo_12_2025-12-27_16-10-31.jpg)
